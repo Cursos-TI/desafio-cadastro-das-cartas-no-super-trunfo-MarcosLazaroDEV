@@ -2,7 +2,7 @@
 Desafio: nível novato - Criando as Cartas do Super Trunfo.
 Atividade executada conforme parametros descritos no portal SAVA. 
 */
-#include <stdio.h> 
+#include <stdio.h>
 int main(){
     char estado1, estado2;
     char codigoCarta1[50], codigoCarta2[50];
